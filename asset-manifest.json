@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/project3-nai-b/static/css/main.d566629a.css",
-    "main.js": "/project3-nai-b/static/js/main.3f660d2c.js",
+    "main.css": "/project3-nai-b/static/css/main.6b2e2fde.css",
+    "main.js": "/project3-nai-b/static/js/main.82ab8a68.js",
     "static/media/nbBaddies.png": "/project3-nai-b/static/media/nbBaddies.094f2c99a939b1bf01c0.png",
     "static/media/yourssafety.png": "/project3-nai-b/static/media/yourssafety.4f256100810ed71e5bc9.png",
     "static/media/cosmiccoins.png": "/project3-nai-b/static/media/cosmiccoins.d063bd2f5392241f9fbc.png",
     "index.html": "/project3-nai-b/index.html",
-    "main.d566629a.css.map": "/project3-nai-b/static/css/main.d566629a.css.map",
-    "main.3f660d2c.js.map": "/project3-nai-b/static/js/main.3f660d2c.js.map"
+    "main.6b2e2fde.css.map": "/project3-nai-b/static/css/main.6b2e2fde.css.map",
+    "main.82ab8a68.js.map": "/project3-nai-b/static/js/main.82ab8a68.js.map"
   },
   "entrypoints": [
-    "static/css/main.d566629a.css",
-    "static/js/main.3f660d2c.js"
+    "static/css/main.6b2e2fde.css",
+    "static/js/main.82ab8a68.js"
   ]
 }
