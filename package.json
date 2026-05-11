@@ -1,5 +1,5 @@
 {
-  "homepage": "https://<username>.github.io/portfolio",
+  "homepage": "https://nai-b.github.io/portfolio",
   "name": "react.proj",
   "version": "0.0.0",
   "main": "/src/index.js",
@@ -9,7 +9,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",  
-	  "deploy": "gh-pages -d build",
+	  "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
