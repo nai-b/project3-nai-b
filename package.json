@@ -1,15 +1,15 @@
 {
-  "homepage": "https://nai-b.github.io/",
+  "homepage": "https://nai-b.github.io/portfolio",
   "name": "react.proj",
   "version": "0.0.0",
   "main": "/src/index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",  
-	  "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
