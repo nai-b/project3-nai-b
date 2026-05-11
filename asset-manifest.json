@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/project3-nai-b/build/static/css/main.31d6cfe0.css",
-    "main.js": "/project3-nai-b/build/static/js/main.403a5644.js",
-    "index.html": "/project3-nai-b/build/index.html",
-    "main.403a5644.js.map": "/project3-nai-b/build/static/js/main.403a5644.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.403a5644.js",
+    "index.html": "/index.html",
+    "main.403a5644.js.map": "/static/js/main.403a5644.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
