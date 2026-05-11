@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pacecs-344-classroom-web-computing-project3-portfolio/static/css/main.7457f823.css",
-    "main.js": "/pacecs-344-classroom-web-computing-project3-portfolio/static/js/main.2fc33645.js",
-    "static/media/nbBaddies.png": "/pacecs-344-classroom-web-computing-project3-portfolio/static/media/nbBaddies.094f2c99a939b1bf01c0.png",
-    "static/media/yourssafety.png": "/pacecs-344-classroom-web-computing-project3-portfolio/static/media/yourssafety.4f256100810ed71e5bc9.png",
-    "static/media/cosmiccoins.png": "/pacecs-344-classroom-web-computing-project3-portfolio/static/media/cosmiccoins.d063bd2f5392241f9fbc.png",
-    "index.html": "/pacecs-344-classroom-web-computing-project3-portfolio/index.html",
-    "main.7457f823.css.map": "/pacecs-344-classroom-web-computing-project3-portfolio/static/css/main.7457f823.css.map",
-    "main.2fc33645.js.map": "/pacecs-344-classroom-web-computing-project3-portfolio/static/js/main.2fc33645.js.map"
+    "main.css": "/project3-nai-b/static/css/main.7457f823.css",
+    "main.js": "/project3-nai-b/static/js/main.0563f671.js",
+    "static/media/nbBaddies.png": "/project3-nai-b/static/media/nbBaddies.094f2c99a939b1bf01c0.png",
+    "static/media/yourssafety.png": "/project3-nai-b/static/media/yourssafety.4f256100810ed71e5bc9.png",
+    "static/media/cosmiccoins.png": "/project3-nai-b/static/media/cosmiccoins.d063bd2f5392241f9fbc.png",
+    "index.html": "/project3-nai-b/index.html",
+    "main.7457f823.css.map": "/project3-nai-b/static/css/main.7457f823.css.map",
+    "main.0563f671.js.map": "/project3-nai-b/static/js/main.0563f671.js.map"
   },
   "entrypoints": [
     "static/css/main.7457f823.css",
-    "static/js/main.2fc33645.js"
+    "static/js/main.0563f671.js"
   ]
 }
